@@ -4,7 +4,7 @@ YouTube Moments allows you to resurface memorable moments from your liked YouTub
 ## Technology
 This front end for YouTube Moments is built using Vue.js. The back end uses Python and Django. I plan to eventually deployed a server for public use, but for now, enjoy a demo with some faked API data.
 
-## Colaboration
+## Collaboration
 If you'd like to help build out YouTube Moments or have ideas for features, please let me know!
 
 ## To-Dos
