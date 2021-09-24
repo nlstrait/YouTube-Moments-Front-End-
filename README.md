@@ -6,6 +6,8 @@ Demo: https://nlstrait.github.io/YouTube-Moments-Front-End/
 ## Technology
 This front end for YouTube Moments is built using Vue.js. The back end uses Python and Django. I plan to eventually deployed a server for public use, but for now, enjoy a demo with some faked API data.
 
+The back end repo can be found here: https://github.com/nlstrait/Haystack-Django
+
 ## Collaboration
 If you'd like to help build out YouTube Moments or have ideas for features, please let me know!
 
