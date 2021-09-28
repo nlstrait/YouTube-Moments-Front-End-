@@ -10,6 +10,3 @@ The back end repo can be found here: https://github.com/nlstrait/YouTube-Moments
 
 ## Collaboration
 If you'd like to help build out YouTube Moments or have ideas for features, please let me know!
-
-## To-Dos
-- Integrate Named Entity Recognition
